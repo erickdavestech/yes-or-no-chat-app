@@ -11,7 +11,7 @@ class YesOrNoApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // A one-line description used by the device to identify the app for the user
-      title: 'Material App',
+      title: 'YesOrNoApp',
       // retiramos el debug icon barner
       debugShowCheckedModeBanner: false,
       // Configuramos el tema para materialApp co el elemento 1
